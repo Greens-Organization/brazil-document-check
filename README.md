@@ -4,7 +4,7 @@ Algorithms for checking Brazilian identification documents, among other validati
 
 # Algorithms
 
-- [x] RG Check - Only for documents from the state of São Paulo and Rio de Janeiro.
+- [x] [RG Check](https://github.com/Greens-Organization/brazil-document-check/blob/main/src/checkRG.js) - Only for documents from the state of São Paulo and Rio de Janeiro.
 - [ ] CPF Check
 - [ ] CNPJ Check
 
